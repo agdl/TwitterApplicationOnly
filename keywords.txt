@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For TwitterOauth
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TwitterApplicationOnly	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin							KEYWORD2
+setCredentials		KEYWORD2
+getBearer					KEYWORD2
+getUserTimeline		KEYWORD2
+printWifiStatus		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
